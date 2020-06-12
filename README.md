@@ -8,12 +8,10 @@ docker pull zhopen/eosio.eos:vx.x.x
 
 # 安装  
 ## docker 方式  
-获取keosd安装包 keosd-setup.tar或keosd-setup.zip，解压安装包：
-
-安装：  
+### 安装：  
 修改配置文件config：镜像，服务地址，存储目录  
 执行setup.sh  
-操作：  
+### 操作：  
 stop.sh 停止  
 start.sh 启动  
 unlock.sh 打开并解锁默认钱包default  
