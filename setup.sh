@@ -11,6 +11,7 @@ then
    exit 0
 fi
 
+DATA_DIR=/data/keosd/data-dir
 
 docker run \
    --network host \
