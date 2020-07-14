@@ -1,8 +1,8 @@
 # 钱包服务keosd的作用  
-存储私有，签名交易
+存储私钥，签名交易
 
 # 镜像  
-docker pull zhopen/eosio.eos:vx.x.x
+docker pull boscore/bos:v3.0.4
 
 有多个版本可选，都可以，选择最高的版本就可以了。
 
